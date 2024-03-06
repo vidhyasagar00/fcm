@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149240540753",
+    "project_id": "fcmtest-cd2bf",
+    "storage_bucket": "fcmtest-cd2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149240540753:android:4428a55431fcc9b7ce5270",
+        "android_client_info": {
+          "package_name": "com.softsuave.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmfD-FeINivAOl-ufKQZYU3sIr89WjWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
